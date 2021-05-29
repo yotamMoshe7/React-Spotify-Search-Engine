@@ -1,0 +1,27 @@
+.playlist-button-wrapper {
+  height: 60px;
+}
+
+.playlist-button {
+  border-radius: 15px 15px 15px 15px;
+  height: 40px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: 'Teko', sans-serif;
+  width: 120px;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.playlist-button:hover {
+  background-color: rgba(30, 215, 96, 255);
+  color: black;
+}
+
+.mobile-playlist-button-wrapper {
+  height: 8vh;
+}

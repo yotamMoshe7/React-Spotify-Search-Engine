@@ -1,0 +1,30 @@
+.artist-name {
+  text-align: center;
+  font-family: 'IBM Plex Mono', monospace;
+  color: white;
+  font-weight: bold;
+  height: 60px;
+  overflow: hidden;
+}
+
+.span {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'IBM Plex Mono', monospace;
+  color: white;
+  font-weight: bold;
+}
+
+.mobile-artist-name {
+  height: 7vh;
+  overflow: hidden;
+  color: white;
+  text-align: center;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.mobile-span {
+  font-size: 4vh;
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.followers {
+  padding-top: 5px;
+  color: white;
+  text-align: center;
+  font-size: 17px;
+  overflow: hidden;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.mobile-followers {
+  padding-top: 1vh;
+  color: white;
+  text-align: center;
+  font-size: 3vh;
+  font-family: 'IBM Plex Mono', monospace;
+  overflow: hidden;
+  height: 9vh;
+}

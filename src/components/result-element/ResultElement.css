@@ -1,0 +1,33 @@
+.element-wrapper {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.element-sub-wrapper {
+  border: 0.1px solid rgb(140, 139, 139);
+  border-radius: 15px 15px 15px 15px;
+  padding: 10px;
+}
+
+.element-sub-wrapper:hover {
+  background-color: rgb(21, 18, 18);
+}
+
+.details-wrapper {
+  height: 80px;
+  margin-top: 10px;
+}
+
+.mobile-element-wrapper {
+  padding-top: 2vh;
+}
+
+.mobile-element-sub-wrapper {
+  border: 0.1px solid rgb(140, 139, 139);
+  border-radius: 5px 5px 5px 5px;
+  padding: 10px;
+}
+
+.mobile-element-sub-wrapper:hover {
+  background-color: rgb(21, 18, 18);
+}

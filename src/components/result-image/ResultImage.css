@@ -1,0 +1,9 @@
+.artist-image-wrapper {
+  height: 160px;
+}
+
+.artist-image {
+  width: 200px;
+  height: 150px;
+  border-radius: 5px 5px 5px 5px;
+}

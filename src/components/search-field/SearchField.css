@@ -1,0 +1,28 @@
+.search-field-wrapper {
+  height: 100%;
+}
+
+.search-icon-wrapper {
+  background-color: white;
+  border-radius: 15px 0 0 15px;
+  height: 100%;
+}
+
+.search-field {
+  background-color: white;
+  border-radius: 0 15px 15px 0;
+  height: 100%;
+  font-size: 1.5vw;
+}
+
+.mobile-search-icon-wrapper {
+  background-color: white;
+  border-radius: 15px 0 0 15px;
+  height: 6vh;
+}
+
+.mobile-search-field {
+  background-color: white;
+  border-radius: 0 15px 15px 0;
+  height: 6vh;
+}

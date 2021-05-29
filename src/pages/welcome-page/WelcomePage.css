@@ -1,0 +1,38 @@
+.welcome-page-wrapper {
+  height: 100vh;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.welcome-title {
+  color: white;
+  font-size: 5vw;
+  height: 7.5vw;
+}
+
+.welcome-spotify-icon {
+  height: 12vw;
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+}
+
+.welcome-spotify-icon:hover,
+.welcome-spotify-icon:focus,
+.welcome-spotify-icon:active {
+  transform: scale(1.1);
+}
+
+.mobile-welcome-title {
+  color: white;
+  font-size: 4vh;
+  height: 10vh;
+}
+
+.mobile-welcome-spotify-icon {
+  height: 20vh;
+}
