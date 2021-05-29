@@ -17,7 +17,7 @@ Press on spotify button to get permission from spotify to use there services.
 1. A search field for artists.
 2. Each search result contain artist name, image, followers, genre and link to spotify playlist.
 3. Option to sort list results by name and number of followers.
-4. Option to filter list results nuy number of followers.
+4. Option to filter list results buy number of followers.
 5. The app is mobile and ipad responsive.
 
 # Run Instruction
