@@ -1,5 +1,5 @@
 // Routes
-export const WELCOME_PAGE_ROUTE = '/React-Spotify-Search-Engine';
+export const WELCOME_PAGE_ROUTE = '/';
 export const SEARCH_PAGE_ROUTE = '/search';
 export const RESULTS_PAGE_ROUTE = '/results';
 
